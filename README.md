@@ -1,7 +1,17 @@
 # Prazer, Luis Gustavo Baido! 👋
 💻 Analista de Dados | Desenvolvedor Python | Foco em Django, Streamlit e SQL  
 
-<img src="<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b14f3dfd-ae6c-400d-8ec4-56470fcd2aa8" width="300" align="right">
+<p align="center">
+  
+ <img src="<img width="1024" height="1024" alt="3ddf30d2-01b2-4c30-be2d-7a716037a639" src="https://github.com/user-attachments/assets/09e26c36-866e-4242-b7e5-e85235ac7d71" /> width="200" />
+
+</p>
+
+
+
+
+
+
 
 ---
 
