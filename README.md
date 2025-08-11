@@ -8,15 +8,10 @@
   <img src="https://github.com/user-attachments/assets/09e26c36-866e-4242-b7e5-e85235ac7d71" width="350" />
 </p>
 
-<!-- Versão com largura 250px -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/09e26c36-866e-4242-b7e5-e85235ac7d71" width="250" />
-</p>
-
 ---
-
-## 🚀 Ferramentas e Tecnologias que uso
 <p align="center">
+## 🚀 Ferramentas e Tecnologias que uso
+
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=092E20" />
   <img src="https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
@@ -28,7 +23,7 @@
 </p>
 
 ---
-
+<p align="center">
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
@@ -37,11 +32,11 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=Gusbaido&show_icons=true&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusbaido&layout=compact&theme=radical" /> |
 
 </div>
-
+</p>
 ---
-
-## 🌎 Onde me encontrar
 <p align="center">
+## 🔍 Onde me encontrar
+
   <a href="https://www.linkedin.com/in/luis-gustavo-santos-baido-a0aa47159/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" />
   </a>
