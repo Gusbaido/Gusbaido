@@ -1,7 +1,10 @@
-# Prazer, Luis Gustavo! 👋
+# Prazer, Luis Gustavo Baido! 👋
 💻 Analista de Dados | Desenvolvedor Python | Foco em Django, Streamlit e SQL  
 
-<img src="https://media.tenor.com/NTyH_x7H7eQAAAAd/coding-anime.gif" width="300" align="right">
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8da33ad7-cb63-4c88-a2fc-d843aa95df23" />
+" width="300" align="right"> 
+
+
 
 ---
 
@@ -16,14 +19,13 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gusbaido&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusbaido&layout=compact&theme=radical)
 
 ---
 
 ## 🌎 Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/seu-linkedin)
-[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/seu-canal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/luis-gustavo-santos-baido-a0aa47159/])
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/seu-usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seuemail@gmail.com)
 
