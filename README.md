@@ -1,10 +1,8 @@
 # Prazer, Luis Gustavo Baido! 👋
 💻 Analista de Dados | Desenvolvedor Python | Foco em Django, Streamlit e SQL  
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8da33ad7-cb63-4c88-a2fc-d843aa95df23" />
-" width="300" align="right"> 
-
-
+<img src="![Uploading image.png…]()
+" width="300" align="right">
 
 ---
 
@@ -26,8 +24,8 @@
 
 ## 🌎 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/luis-gustavo-santos-baido-a0aa47159/])
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/seu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seuemail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/gustavobaido)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:gb4ido@gmail.com)
 
 ---
 
